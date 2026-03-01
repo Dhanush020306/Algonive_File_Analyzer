@@ -32,3 +32,7 @@ Premium Java Swing Desktop Application built for Internship at Algonive.
 ## 🎯 Internship Project
 
 This project was developed as part of the Algonive Internship Program to demonstrate practical Java programming and GUI development skills.
+
+## 📸 Application Preview
+
+![App Screenshot](image.png)
